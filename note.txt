@@ -1,5 +1,5 @@
-nota 1
-nota 2
-nota 3
-nota 4
-nota 5
+nota 1: Personale
+nota 2: Lavoro
+nota 3: Scuola
+nota 4: Lavoro
+nota 5: Lavoro
